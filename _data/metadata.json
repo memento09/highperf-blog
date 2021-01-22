@@ -1,5 +1,5 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "ブログ実験場",
   "url": "https://update-me.com",
   "domain": "update-me.com",
   "description": "Description of the website. Update me.",
@@ -7,7 +7,7 @@
   "googleAnalyticsId": "GA ID. Update me",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Google high-performance blog",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://update-me.com"
@@ -17,10 +17,10 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "おめめ/memento09",
+    "twitterHandle": "@memento09"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "おめめ/memento09"
   }
 }
