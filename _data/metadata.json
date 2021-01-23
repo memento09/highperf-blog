@@ -1,20 +1,20 @@
 {
   "title": "ブログ実験場",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "url": "https://red-wave-8114.on.fleek.co",
+  "domain": "fleek.co",
+  "description": "いろいろ試してみるブログ",
+  "genre": "Programing",
   "googleAnalyticsId": "GA ID. Update me",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "Google high-performance blog",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://red-wave-8114.on.fleek.co"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://red-wave-8114.on.fleek.co/feed/feed.json"
   },
   "author": {
     "name": "おめめ/memento09",
